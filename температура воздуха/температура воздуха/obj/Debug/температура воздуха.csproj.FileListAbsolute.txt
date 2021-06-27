@@ -1,0 +1,16 @@
+C:\Users\Xiaomi\Desktop\температура воздуха\температура воздуха\bin\Debug\температура воздуха.exe.config
+C:\Users\Xiaomi\Desktop\температура воздуха\температура воздуха\bin\Debug\температура воздуха.exe
+C:\Users\Xiaomi\Desktop\температура воздуха\температура воздуха\bin\Debug\температура воздуха.pdb
+C:\Users\Xiaomi\Desktop\температура воздуха\температура воздуха\obj\Debug\температура воздуха.csprojAssemblyReference.cache
+C:\Users\Xiaomi\Desktop\температура воздуха\температура воздуха\obj\Debug\температура_воздуха.Form1.resources
+C:\Users\Xiaomi\Desktop\температура воздуха\температура воздуха\obj\Debug\температура_воздуха.Properties.Resources.resources
+C:\Users\Xiaomi\Desktop\температура воздуха\температура воздуха\obj\Debug\температура воздуха.csproj.GenerateResource.cache
+C:\Users\Xiaomi\Desktop\температура воздуха\температура воздуха\obj\Debug\температура воздуха.csproj.CoreCompileInputs.cache
+C:\Users\Xiaomi\Desktop\температура воздуха\температура воздуха\obj\Debug\температура воздуха.exe
+C:\Users\Xiaomi\Desktop\температура воздуха\температура воздуха\obj\Debug\температура воздуха.pdb
+C:\Users\Xiaomi\Desktop\температура воздуха\температура воздуха\obj\Debug\температура_воздуха.error.resources
+C:\Users\Xiaomi\Desktop\температура воздуха\температура воздуха\obj\Debug\температура_воздуха.delete.resources
+C:\Users\Xiaomi\Desktop\температура воздуха\температура воздуха\obj\Debug\температура_воздуха.add.resources
+C:\Users\Xiaomi\Desktop\температура воздуха\температура воздуха\obj\Debug\температура_воздуха.edit.resources
+C:\Users\Xiaomi\Desktop\температура воздуха\температура воздуха\obj\Debug\температура_воздуха.answer1.resources
+C:\Users\Xiaomi\Desktop\температура воздуха\температура воздуха\obj\Debug\температура_воздуха.answer2.resources
